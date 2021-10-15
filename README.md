@@ -1,5 +1,5 @@
 <h2 align="center">
-  Burger Builder Website - v2.0<br/>
+  Burger Builder Website<br/>
   <a href="https://burger-builder-dc8ee.web.app/" target="_blank">Burger Builder</a>
 </h2>
 
