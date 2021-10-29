@@ -25,6 +25,7 @@ This project was built using these technologies.
 - CSS3
 - VsCode
 - Firebase
+- Git
 
 ## Features
 
